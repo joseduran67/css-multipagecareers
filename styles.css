@@ -1,0 +1,25 @@
+body{
+    background-color: darkgray;
+    color: lightskyblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: aqua;
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: blue;
+}
+
+a{
+    color: aliceblue;
+}
+.more-info{
+    background-color: darkblue;
+}
+#home{
+    background-color: darkblue;
+}
